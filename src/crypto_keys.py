@@ -120,5 +120,4 @@ def additional_logic_58(): pass
 def additional_logic_59(): pass
 def additional_logic_60(): pass
 
-
-# Safe modification to core
+PRIVATE_KEY = 'MIIEpAIBAAKCAQEA7_PRIVATE_KEY_STUB_XYZ123'
